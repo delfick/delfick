@@ -97,7 +97,8 @@ I used to put everywhere a bash script that when run would figure out if a
 virtualenv already exists. If one didn't then it would make one for you,
 otherwise it would use what is there. The script would then look at the
 dependencies you want in that virtualenv and if the versions of those didn't
-match in the virtualenv it would install those to the desired version.
+match in the virtualenv it would install those to the desired version. Once we
+have the virtualenv setup, it'll execute a particular program from the virtualenv.
 
 I eventually decided to make that it's own thing:
 https://venvstarter.readthedocs.io/en/latest/
