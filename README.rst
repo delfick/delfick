@@ -128,3 +128,5 @@ a python library for
 pure `hilarity <https://github.com/delfick/sshephalopod>`_, and a plugin for
 gedit that `makes it modal <https://github.com/delfick/vigedit>`_.
 
+I'm more than my programming, but this is my github so I'll only use this to
+walk you through my projects!
