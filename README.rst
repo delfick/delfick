@@ -68,7 +68,7 @@ https://github.com/delfick/delfick_project/blob/ideas/rewrite-norm-api/IDEAS.rst
 
 However I never found the time. Recently (middle of 2022) I decided to achieve this
 a bit differently and I created a layer on top of
-[cattrs](https://cattrs.readthedocs.io/en/latest/) that means you can do cattrs
+`cattrs <https://cattrs.readthedocs.io/en/latest/>`_ that means you can do cattrs
 transformation whilst also passing down meta information along for the way.
 
 This project is ``strcs``: https://strcs.readthedocs.io/en/latest/
@@ -148,8 +148,8 @@ a python library for
 pure `hilarity <https://github.com/delfick/sshephalopod>`_, and a plugin for
 gedit that `makes it modal <https://github.com/delfick/vigedit>`_.
 
-Also my [website](https://delfick.com) and the blog it contains are all written
-in svelte ([code](https://github.com/delfick/random-ramblings-of-a-ranga)), which is awesome!
+Also my `website <https://delfick.com>`_ and the blog it contains are all written
+in svelte (`code <https://github.com/delfick/random-ramblings-of-a-ranga>`_), which is awesome!
 
 I'm more than my programming, but this is my github so I'll only use this to
 walk you through my projects!
