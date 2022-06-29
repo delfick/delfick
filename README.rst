@@ -57,6 +57,25 @@ different projects I created.
 Those last two have a lot of features I can't fit into a single sentence but
 all of this can be read at https://delfick_project.readthedocs.io/
 
+Data normalisation
+------------------
+
+Part of ``delfick_project`` is the ``input_algorithms`` code that lets us validate
+and normalise data to create well structured objects.
+
+In late 2020 I wrote this idea for how I wanted to improve the API it provides:
+https://github.com/delfick/delfick_project/blob/ideas/rewrite-norm-api/IDEAS.rst
+
+However I never found the time. Recently (middle of 2022) I decided to achieve this
+a bit differently and I created a layer on top of
+[cattrs](https://cattrs.readthedocs.io/en/latest/) that means you can do cattrs
+transformation whilst also passing down meta information along for the way.
+
+This project is ``strcs``: https://strcs.readthedocs.io/en/latest/
+
+This one is my first attempt at seeing what I can do with Python Type hints and it's
+kinda cool :)
+
 My oldest project I still use
 -----------------------------
 
@@ -128,6 +147,9 @@ a python library for
 `finding the commit times <https://github.com/delfick/gitmit>`_ of github files,
 pure `hilarity <https://github.com/delfick/sshephalopod>`_, and a plugin for
 gedit that `makes it modal <https://github.com/delfick/vigedit>`_.
+
+Also my [website](https://delfick.com) and the blog it contains are all written
+in svelte ([code](https://github.com/delfick/random-ramblings-of-a-ranga)), which is awesome!
 
 I'm more than my programming, but this is my github so I'll only use this to
 walk you through my projects!
